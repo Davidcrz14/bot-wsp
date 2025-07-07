@@ -30,7 +30,7 @@ Bot de WhatsApp que simula conversaciones naturales usando el estilo de un joven
 
 1. **Clonar el repositorio**
 ```bash
-git clone <tu-repositorio>
+git clone <https://github.com/Davidcrz14/bot-wsp>
 cd whatsapp-bot
 ```
 
@@ -130,22 +130,3 @@ El bot viene preconfigurado con el perfil "David" que incluye:
 - [ ] Múltiples personalidades
 - [ ] Respuestas programadas
 
-## Contribuir
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/nueva-funcionalidad`)
-3. Commit tus cambios (`git commit -am 'Agregar nueva funcionalidad'`)
-4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
-5. Abre un Pull Request
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT.
-
-## Soporte
-
-Si tienes problemas o preguntas, abre un issue en el repositorio.
-
----
-
-**Nota**: Este bot está diseñado para simular conversaciones naturales. Asegúrate de cumplir con los términos de servicio de WhatsApp al usarlo.
