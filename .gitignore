@@ -1,0 +1,9 @@
+node_modules/
+.env
+/chat-history.json
+/chat.txt
+/bot-status.json
+/.wwebjs_auth/
+/.wwebjs_cache/
+dist/
+package-lock.json
