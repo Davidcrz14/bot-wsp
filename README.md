@@ -1,7 +1,7 @@
 # WhatsApp Bot con IA - Estilo Natural Mexicano
 
 ## Descripción
-Bot de WhatsApp que simula conversaciones naturales usando el estilo de un joven mexicano de 20 años llamado David. El bot ha sido configurado para responder de manera muy casual y auténtica, usando modismos y expresiones típicas del español mexicano.
+Bot de WhatsApp que simula conversaciones naturales usando un modelo de Gemini.
 
 ## Características Principales
 
@@ -13,7 +13,7 @@ Bot de WhatsApp que simula conversaciones naturales usando el estilo de un joven
 - **Respuestas auténticas**: "aquí andamos", "todo bien", "ps ahí", "tranca"
 
 ### 🤖 Configuración de IA
-- **Modelo**: Gemini 1.5 Flash
+- **Modelo**: Gemini 2.0 Flash
 - **Tokens limitados**: Máximo 50 tokens para respuestas cortas
 - **Alta creatividad**: Temperature 1.0 para variabilidad
 - **Respuestas máximo 80 caracteres**: Para mantener naturalidad
