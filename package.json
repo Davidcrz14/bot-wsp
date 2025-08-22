@@ -1,11 +1,13 @@
 {
   "name": "whatsapp-bot-console",
   "private": true,
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "module",
   "scripts": {
     "start": "node index.js",
-    "dev": "node index.js"
+    "dev": "node index.js",
+    "start-new": "node index.js",
+    "dev-new": "node index.js"
   },
   "dependencies": {
     "@google/genai": "^1.8.0",
@@ -14,6 +16,7 @@
     "dotenv": "^17.0.1",
     "fs-extra": "^11.3.0",
     "inquirer": "^9.3.7",
+    "openai": "^4.104.0",
     "qrcode-terminal": "^0.12.0",
     "whatsapp-web.js": "^1.31.0"
   }
